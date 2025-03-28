@@ -1,0 +1,4 @@
+{
+  "name": "parrainboost",
+  "dependencies": { "next": "latest", "@supabase/supabase-js": "^2.0.0" }
+}
