@@ -1,1 +1,3 @@
-// Page publique avec toutes les fiches
+export default function FichesPage() {
+  return <div>Page fiches</div>;
+}

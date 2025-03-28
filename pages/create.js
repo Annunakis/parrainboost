@@ -1,1 +1,3 @@
-// Page pour créer une fiche
+export default function CreatePage() {
+  return <div>Page création</div>;
+}

@@ -1,1 +1,3 @@
-// Page admin, visible que si rôle = admin
+export default function AdminPage() {
+  return <div>Page admin</div>;
+}
