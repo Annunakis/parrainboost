@@ -1,0 +1,1 @@
+// Page admin, visible que si rôle = admin

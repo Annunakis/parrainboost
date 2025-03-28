@@ -1,0 +1,1 @@
+// Page publique avec toutes les fiches
